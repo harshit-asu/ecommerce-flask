@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(225, 248, 255);
+}
+
+.img-fluid {
+    background-color: transparent;
+}
+
+.badge {
+    background-color: black;
+    color: white;
+}
+
+.card {
+    border: 1px solid darkblue !important;
+}
