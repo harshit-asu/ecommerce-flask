@@ -25,17 +25,17 @@ A Flask-based web application to browse sneakers, view product details, add item
 ### 1. Home Page
 The home page displays a list of sneakers with their images, names, and prices.
 
-![Home Page](./screenshots/home_page.png)
+![Home Page](./static/images/home_page.png)
 
 ### 2. Product Page
 A detailed view of a selected sneaker, showing its image, description, and purchase options.
 
-![Product Page](./screenshots/product_page.png)
+![Product Page](./static/images/product_page.png)
 
 ### 3. Shopping Cart
 A cart interface to manage selected items, update quantities, and review the total price.
 
-![Shopping Cart](./screenshots/shopping_cart.png)
+![Shopping Cart](./static/images/shopping_cart.png)
 
 ---
 
